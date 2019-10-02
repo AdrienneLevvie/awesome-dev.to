@@ -124,6 +124,11 @@
 			"Series-Title" : "Become a Fullstack JavaScript Developer",
 			"link" : "https://dev.to/hoangbkit/become-a-fullstack-javascript-developer-part-1-the-motivation-1h4c",
 			"author" : "Hoang Nguyen"
+		},
+		{
+			"Series-Title" : "JavaScript Object vs JSON: Demystified",
+			"link" : "https://dev.to/desoga/javascript-object-vs-json-demystified-494j",
+			"author" : "Deji Adesoga"
 		}
 	]
 }
