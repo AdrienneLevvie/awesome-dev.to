@@ -126,9 +126,9 @@
 			"author" : "Hoang Nguyen"
 		},
 		{
-			"Series-Title":"Mobile UX Design Tips & Tricks",
-			"link":"https://www.raywenderlich.com/5443704-mobile-ux-design-tips-tricks",
-			"author":"Ray Wenderlich"
+			"Series-Title":"The Power of Flexible Types in TypeScript",
+			"link":"https://dev.to/saltyshiomix/the-flexible-type-power-of-typescript-fp7",
+			"author":"Shiono Yoshihide"
 		}
 	]
 }
