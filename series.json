@@ -124,6 +124,11 @@
 			"Series-Title" : "Become a Fullstack JavaScript Developer",
 			"link" : "https://dev.to/hoangbkit/become-a-fullstack-javascript-developer-part-1-the-motivation-1h4c",
 			"author" : "Hoang Nguyen"
+		},
+		{
+			"Series-Title": " Optimising JS Delivery",
+			"link": "https://dev.to/thekashey/optimising-js-delivery-4h6l",
+			"author": "Anton Korzunov"
 		}
 	]
 }
